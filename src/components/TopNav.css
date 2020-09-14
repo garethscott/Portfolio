@@ -1,0 +1,14 @@
+.top-nav {
+    height: 50px;
+    width: 18%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.nav-btn {
+    font-size: 10px;
+    font-family: Helvetica, sans-serif;
+    margin-top: 30px;
+    color: rgb(0, 50, 57);
+    font-weight: 550;
+}

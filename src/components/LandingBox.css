@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:regularitalic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:semi-bold');
+@import url("https://use.typekit.net/wis2qbu.css");
+
+.land-div {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../images/landing-image-1.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.greeting-frame {
+  height: 340px;
+  width: 775px;
+  /* background-color: rgba(5, 205, 229, 0.5); */
+  background-color: rgba(252, 252, 252, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+}
+.greeting {
+  height: 252px;
+  width: 735px;
+  border-top: 7px dotted rgb(0, 72, 82);
+  border-bottom: 7px dotted rgb(0, 72, 82);
+  position: relative;
+  padding-top: -7px;
+}
+.greet-type {
+  font-size: 80px;
+  font-family: 'Neuzeit-grotesk';
+  margin: 0;
+  margin-top: 10px;
+  /* color: rgb(0, 50, 57); */
+  color: rgb(0, 72, 82);
+  letter-spacing: -0.03em;
+}
+.greet-2 {
+  margin-top: -20px; 
+  margin-left: -4px;
+}
+.greet-3 {
+  margin-top: -22px;
+  margin-left: 3px;
+}
+.full-stop {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+  bottom: 26px;
+  left: 329px;
+}
+.scroll-type {
+  position: absolute;
+  left: 358px;
+  top: 96px;
+  font-family: 'Playfair Display';
+  font-weight: 200;
+  font-size: 73px;
+  /* color: rgba(0, 50, 57, 100%); */
+  color: rgb(0, 72, 82);
+}
+

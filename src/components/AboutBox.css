@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:regularitalic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:semi-bold');
+@import url("https://use.typekit.net/wis2qbu.css");
+
+.about-div {
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-image: url('../images/about-img.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .about-blob-box {
+    height: 400px;
+    width: 85%;
+    position: relative;
+    margin-bottom: 200px;
+  }
+  .about-blob-img {
+    width: 200px;
+    max-width: 125px;
+    margin-left: 22px;
+    margin-top: 20px;
+  }
+  .about-copy-box {
+    height: 200px;
+    width: 85%;
+    position: absolute;
+    left: 85px;
+    bottom: 140px;
+  }
+  .red-dot-box{
+    position: relative;
+  }
+  .red-dot-about {
+    border-radius: 50%;
+    width: 9px;
+    height: 9px;
+    background-color: rgb(250, 43, 43);
+    position: absolute;
+    bottom: 8.5px;
+    left: 211px;
+  }
+  .about-title {
+    color: white;
+    font-size: 37px;
+    font-family: 'Neuzeit-grotesk';
+    margin-bottom: 40px;
+  }
+  .title-margin {
+    margin-bottom: -30px;
+  }
+  .little {
+    font-family: 'Playfair Display';
+    font-weight: 500;
+    font-size: 37px;
+  }
+  .about-copy {
+    width: 75%;
+    color: rgb(5, 205, 229);
+    max-width: 800px;
+    line-height: 1.5em;
+    font-size: 15px;
+    font-weight: 590;
+    font-family: Arial, sans-serif;
+    font-family: 'Open Sans';
+  
+  }
+  .projects-link {
+    color: rgb(255, 158, 6);
+    font-family: 'Playfair Display';
+    font-size: 25px;
+    border-bottom: 3px solid rgb(255, 158, 6);
+    font-weight: 590;
+    width: 123px;
+    height: 40px;
+    margin-top: 40px;
+    text-decoration: none;
+    padding-bottom: 5px;
+  }
+  
+  .projects-link:hover {
+    color: rgb(253, 167, 159);
+    border-bottom: 3px solid rgb(253, 167, 159);
+  }
+  
+  
+  /* .my-work-type {
+    font-family: 'Playfair Display';
+    font-size: 25px;
+    border-bottom: 2.5px solid rgb(255, 158, 6);
+    font-weight: 590;
+    width: 123px;
+    height: 37px;
+    margin-top: 40px;
+    text-decoration: none;
+  } */
+
+

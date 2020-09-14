@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:regularitalic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:semi-bold');
+@import url("https://use.typekit.net/wis2qbu.css");
+
+.background-box-light {
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.work-content-box-light {
+    width: 71%;
+    display: flex;
+    justify-content: space-between;
+}
+.project-img-box-light {
+    width: 76%;
+}
+.project-img-light {
+    width: 100%;
+}
+.work-copy-light {
+    width: 22%;
+}
+.work-heading-light {
+    width: 250px;
+    font-size: 37px;
+    font-family:  'Neuzeit-grotesk';
+    font-weight: bold;
+    color: rgb(0, 50, 57);
+    margin: 0;
+    margin-top: 2px;
+    margin-bottom: 45px;
+    letter-spacing: -0.04em;
+}
+.work-copy-light {
+    width: 22%;
+    color: rgb(98, 99, 99);
+    line-height: 1.5em;
+    font-size: 15px;
+    font-weight: 590;
+    font-family: 'Open Sans';
+}
+.see-online-light {
+    font-family: 'Playfair Display';
+    font-size: 25px;
+    border-bottom: 2.5px solid rgb(209, 70, 202);
+    font-weight: 590;
+    width: 109px;
+    height: 30px;
+    margin-top: 40px;
+    text-decoration: none;
+    color: rgb(22, 87, 88);
+    color: rgb(209, 70, 202);
+}
+.project-flick-btn-light {
+    position: fixed;
+    bottom: 60px;
+    right: 85px;
+    font-size: 17px;
+    font-family:  'Neuzeit-grotesk';
+    color: rgb(0, 50, 57);
+}
+.project-light {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+}
+.exit-btn-light {
+    position: absolute;
+    top: 79px;
+    right: 79px;
+    opacity: 50%;
+}
+.previous-light {
+    color: rgb(0, 50, 57);
+    text-decoration: none;
+}
+.next-light {
+    color: rgb(0, 50, 57);
+    text-decoration: none;
+}
+.previous-light:hover {
+    opacity: 70%;
+}
+.next-light:hover {
+    opacity: 70%;
+}

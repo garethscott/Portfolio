@@ -1,0 +1,20 @@
+.side-nav {
+    width: 25px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-between;
+}
+.side-logo {
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 2px;
+}
+.git-logo {
+    margin-top: 20px;
+    width: 23px;
+}
+.message-logo {
+    margin-top: 2px;
+}

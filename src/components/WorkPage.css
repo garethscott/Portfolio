@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:regularitalic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:semi-bold');
+@import url("https://use.typekit.net/wis2qbu.css");
+
+.background-box {
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.work-content-box {
+    width: 71%;
+    display: flex;
+    justify-content: space-between;
+}
+.project-img-box {
+    width: 76%;
+}
+.project-img {
+    width: 100%;
+}
+.work-copy {
+    width: 22%;
+}
+.work-heading {
+    width: 250px;
+    font-size: 37px;
+    font-family:  'Neuzeit-grotesk';
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    margin-top: 2px;
+    margin-bottom: 45px;
+    letter-spacing: -0.04em;
+}
+.work-copy {
+    width: 22%;
+    color: rgb(137, 198, 223);
+    line-height: 1.5em;
+    font-size: 15px;
+    font-weight: 590;
+    font-family: 'Open Sans';
+    /* min-width: 265px;
+    max-width: 265px; */
+}
+.see-online {
+    font-family: 'Playfair Display';
+    font-size: 25px;
+    border-bottom: 2.5px solid rgb(255, 158, 6);;
+    color: black;
+    font-weight: 590;
+    width: 109px;
+    height: 30px;
+    margin-top: 40px;
+    text-decoration: none;
+    color: rgb(255, 158, 6);
+}
+.project-flick-btn {
+    position: fixed;
+    bottom: 60px;
+    right: 85px;
+    font-size: 17px;
+    font-family:  'Neuzeit-grotesk';
+    color: white;
+}
+.project {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+}
+.exit-btn {
+    position: absolute;
+    top: 79px;
+    right: 79px;
+}
+.previous-link {
+    color: white;
+    text-decoration: none;
+}
+.next-link {
+    color: white;
+    text-decoration: none;
+}
+.next-link:hover {
+   opacity: 70%;
+}
+.previous-link:hover {
+    opacity: 70%;
+}
