@@ -10,7 +10,7 @@ class Border extends React.Component {
     render() {
         return (
             <div className="border">
-                <Link to="/home"><img className="logo active" src={Logo} alt="Gareth's Logo" /></Link>
+                <Link to="/"><img className="logo active" src={Logo} alt="Gareth's Logo" /></Link>
                 <div className="top-side">
                 </div>
                 <div className="right-side">

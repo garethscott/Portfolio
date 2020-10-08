@@ -6,7 +6,7 @@ import FillImg from '../images/Fill-img.png';
 class WeatherAppPage extends Component {
     state = {}
     render() {
-        const WeatherAppCopy = "Lorem ipsum dolor sit amet, consectetur adipiscing eli, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Risus commodo viverra maecenas accumsan lacus vel facilisis."
+        const WeatherAppCopy = "The application allows the user to find the forecast of a searched for location. The app was built server-side using Node.js and express, and rendered back-end with the help of template-engine handlebars. The weather forecast data is retrieved from the OpenWeatherMap API."
         return (
             <div className="weather-app">
                 <WorkPage url="projects" workImage={FillImg} heading="Weather App" copy={WeatherAppCopy} previous="/travelapp" next="/pokemonapp" />

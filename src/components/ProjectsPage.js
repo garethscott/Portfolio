@@ -35,11 +35,7 @@ class ProjectsPage extends React.Component {
                                 <h1 className="projects-title">my recent projects</h1>
                                 <div className="red-dot"></div>
                             </div>
-                            <p className="projects-copy">Lorem ipsum dolor sit amet, consectetur adipiscing elit
-                            , sed do eiusmod tempor incididunt ut labore et dolore mag
-                            na aliqua. Quis ipsum suspendisse ultrices gravida. Quis ipsum suspendisse ultrices gravida. Risus co
-                            mmodo viverra maecenas accumsan lacus vel facilisis. Risus co
-               mmodo viverra maecenas accumsan lacus vel facilisis.</p>
+                            <p className="projects-copy">Here’s a selection of projects that I have completed whilst studying at Code Nation. They’re built using a range of different technologies, including HTML5 & CSS3, Javascript, React, Node.js, Express and MongoDB. </p>
                         </div>
                     </div>
                 </div>

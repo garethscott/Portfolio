@@ -16,7 +16,7 @@ const WorkPage = (props) => {
                 <div className="work-copy">
                     <h1 className="work-heading">{props.heading}</h1>
                     <p className="work-copy-box">{props.copy}</p>
-                    <h1 className="see-online">See online</h1>
+                    <h1><a className="see-online" target="_blank" href={props.urlwork}>See online</a></h1>
                 </div>
             </div>
             <div>
@@ -26,7 +26,7 @@ const WorkPage = (props) => {
                         <span className="next">next </span></Link>
                     <span className="project">project</span></h1>
             </div>
-        </div>
+        </div >
     )
 }
 

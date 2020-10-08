@@ -6,10 +6,18 @@ import AddBookImg from '../images/Picture-Project-AddBook.jpg';
 class AddressBookPage extends Component {
     state = {}
     render() {
-        const AddressBookCopy = "Lorem ipsum dolor sit amet, consectetur adipiscing eli, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Risus commodo viverra maecenas accumsan lacus vel facilisis."
+        const AddressBookCopy = "An app built using React, were the user could store their friends and acquaintances telephone numbers."
+
         return (
             <div className="address-book">
-                <WorkPageLight url="/projects" workImage={AddBookImg} heading="Address Book" copy={AddressBookCopy} previous="/calculator" next="/todoapp" />
+                <WorkPageLight
+                    url="/projects"
+                    workImage={AddBookImg}
+                    heading="Address Book"
+                    copy={AddressBookCopy}
+                    previous="/calculator"
+                    next="/todoapp"
+                    urlwork="https://garethscott.github.io/Phone-Book-Project/" />
             </div>
         )
     }

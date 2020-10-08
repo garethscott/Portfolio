@@ -16,7 +16,7 @@ const WorkPageLight = (props) => {
                 <div className="work-copy-light">
                     <h1 className="work-heading-light">{props.heading}</h1>
                     <p className="work-copy-box-light">{props.copy}</p>
-                    <h1 className="see-online-light">See online</h1>
+                    <h1><a href={props.urlwork} target="_blank" className="see-online-light">See online</a></h1>
                 </div>
             </div>
             <div>

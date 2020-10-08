@@ -6,10 +6,17 @@ import DiceGameImg from '../images/Picture-Project-DiceGame.jpg';
 class DiceGamePage extends React.Component {
     state = {}
     render() {
-        const DiceGameCopy = "Lorem ipsum dolor sit amet, consectetur adipiscing eli, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Risus commodo viverra maecenas accumsan lacus vel facilisis."
+        const DiceGameCopy = "The Dice game is a two player app that allows each player five roles of a dice. In order for a participant to win they must score over twenty-one within their allocated five rolls, if they roll a score of one at anytime they loose immediately! This app was built using HTML, CSS and vanilla Javascript. "
         return (
             <div className="dice-game">
-                <WorkPageLight url="/projects" workImage={DiceGameImg} heading="Dice Game" copy={DiceGameCopy} previous="/drumkit" next="/travelapp" />
+                <WorkPageLight
+                    url="/projects"
+                    workImage={DiceGameImg}
+                    heading="Dice Game"
+                    copy={DiceGameCopy}
+                    previous="/drumkit"
+                    next="/travelapp"
+                    urlwork="https://garethscott.github.io/Dice-Multiplayer-Project-/" />
             </div>
         )
     }

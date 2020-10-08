@@ -48,14 +48,16 @@
 .see-online {
     font-family: 'Playfair Display';
     font-size: 25px;
-    border-bottom: 2.5px solid rgb(255, 158, 6);;
-    color: black;
     font-weight: 590;
     width: 109px;
-    height: 30px;
     margin-top: 40px;
     text-decoration: none;
     color: rgb(255, 158, 6);
+    border-bottom: 2.5px solid rgb(255, 158, 6);
+}
+.see-online:hover {
+    color: rgb(253, 167, 159);
+    border-bottom: 2.5px solid rgb(253, 167, 159);
 }
 .project-flick-btn {
     position: fixed;

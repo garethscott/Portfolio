@@ -6,7 +6,8 @@ import TodoAppImg from '../images/Picture-Project-TodoApp.jpg';
 class TodoPage extends Component {
     state = {}
     render() {
-        const TodoCopy = "Lorem ipsum dolor sit amet, consectetur adipiscing eli, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Risus commodo viverra maecenas accumsan lacus vel facilisis."
+        const TodoCopy = "The To-do project is a full-stack application were the user can submit and store to-dos. The front-end is built entirely in React, and the back-end is built in Node.js and Express, connected to a MongoDB database."
+
         return (
             <div className="todo">
                 <WorkPageLight url="/projects" workImage={TodoAppImg} heading="Todo App" copy={TodoCopy} previous="/addressbook" next="/keycode" />
