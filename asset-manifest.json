@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.e01ef76b.chunk.css",
+    "main.js": "/Porfolio/static/js/main.0a4becf8.chunk.js",
+    "main.js.map": "/Porfolio/static/js/main.0a4becf8.chunk.js.map",
+    "runtime-main.js": "/Porfolio/static/js/runtime-main.5130a4e5.js",
+    "runtime-main.js.map": "/Porfolio/static/js/runtime-main.5130a4e5.js.map",
+    "static/js/2.4353f4bb.chunk.js": "/Porfolio/static/js/2.4353f4bb.chunk.js",
+    "static/js/2.4353f4bb.chunk.js.map": "/Porfolio/static/js/2.4353f4bb.chunk.js.map",
+    "index.html": "/Porfolio/index.html",
+    "precache-manifest.49c63a55eb5608d4a312f97025c47706.js": "/Porfolio/precache-manifest.49c63a55eb5608d4a312f97025c47706.js",
+    "service-worker.js": "/Porfolio/service-worker.js",
+    "static/css/main.e01ef76b.chunk.css.map": "/Porfolio/static/css/main.e01ef76b.chunk.css.map",
+    "static/js/2.4353f4bb.chunk.js.LICENSE.txt": "/Porfolio/static/js/2.4353f4bb.chunk.js.LICENSE.txt",
+    "static/media/Picture-Project-AddBook.jpg": "/Porfolio/static/media/Picture-Project-AddBook.2da085e6.jpg",
+    "static/media/Picture-Project-Calc.jpg": "/Porfolio/static/media/Picture-Project-Calc.750a332e.jpg",
+    "static/media/Picture-Project-DiceGame.jpg": "/Porfolio/static/media/Picture-Project-DiceGame.46c952b2.jpg",
+    "static/media/Picture-Project-Drumkit.jpg": "/Porfolio/static/media/Picture-Project-Drumkit.f4cad728.jpg",
+    "static/media/Picture-Project-Keycode.png": "/Porfolio/static/media/Picture-Project-Keycode.61a19866.png",
+    "static/media/Picture-Project-Poke.jpg": "/Porfolio/static/media/Picture-Project-Poke.d3f0811f.jpg",
+    "static/media/Picture-Project-TodoApp.jpg": "/Porfolio/static/media/Picture-Project-TodoApp.36fd1b0e.jpg",
+    "static/media/Picture-Project-TravelApp.jpg": "/Porfolio/static/media/Picture-Project-TravelApp.cc871c43.jpg",
+    "static/media/Project-Square-AddBook.jpg": "/Porfolio/static/media/Project-Square-AddBook.313ff3a5.jpg",
+    "static/media/Project-Square-Calc.jpg": "/Porfolio/static/media/Project-Square-Calc.e2a74b30.jpg",
+    "static/media/Project-Square-DiceGame.jpg": "/Porfolio/static/media/Project-Square-DiceGame.5cdab2c9.jpg",
+    "static/media/Project-Square-DrumKit.jpg": "/Porfolio/static/media/Project-Square-DrumKit.2c0b5f04.jpg",
+    "static/media/Project-Square-Keycode-2.jpg": "/Porfolio/static/media/Project-Square-Keycode-2.e22bdea5.jpg",
+    "static/media/Project-Square-Poke.jpg": "/Porfolio/static/media/Project-Square-Poke.88b3ce3a.jpg",
+    "static/media/Project-Square-Todo.jpg": "/Porfolio/static/media/Project-Square-Todo.a4282478.jpg",
+    "static/media/Project-Square-WeatherApp.jpg": "/Porfolio/static/media/Project-Square-WeatherApp.9f6e32ed.jpg",
+    "static/media/Project-Squares-TravelApp.jpg": "/Porfolio/static/media/Project-Squares-TravelApp.9c4a329a.jpg",
+    "static/media/AboutBox.css": "/Porfolio/static/media/about-img.5790eedb.jpg",
+    "static/media/LandingBox.css": "/Porfolio/static/media/landing-image-1.5f1a1dc9.jpg",
+    "static/media/ProjectsPage.css": "/Porfolio/static/media/projects-image-1.39b09a59.png",
+    "static/media/projects-type-blob.png": "/Porfolio/static/media/projects-type-blob.347601ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5130a4e5.js",
+    "static/js/2.4353f4bb.chunk.js",
+    "static/css/main.e01ef76b.chunk.css",
+    "static/js/main.0a4becf8.chunk.js"
+  ]
+}
